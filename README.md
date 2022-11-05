@@ -1,4 +1,4 @@
-# Student Management System
+# Otown Models Management System
 
 This is a model management system built using **Django 4** and **Bootstrap 5**.
 
